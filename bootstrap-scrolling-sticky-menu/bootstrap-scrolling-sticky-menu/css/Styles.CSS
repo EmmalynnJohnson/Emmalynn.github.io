@@ -1,0 +1,61 @@
+@charset "utf-8";
+.row .col-lg-12 h1 {
+}
+body {
+    color: #497352;
+    background-color: #497352;
+}
+section {
+    background-color: #497352;
+}
+.contact-section {
+    background-color: #497352;
+}
+
+
+nav {
+    background-color: #1C4024;
+}
+button {
+    color: #1C4024;
+}
+
+
+h1 {
+    color: #8BA691;
+}
+footer {
+    color: #A5D9B0;
+}
+p {
+    padding-bottom: 0px;
+    text-align: left;
+    float: right;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.contact-section {
+    color: #FEFCFC;
+}
+img {
+    float: none;
+}
+h2 {
+    text-align: left;
+}
+a {
+    text-align: left;
+}
+.email {
+    clear: left;
+    float: left;
+}
+.about {
+    float: left;
+}
+.about {
+}
+.itsame {
+    float: none;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.98 223.53">
+  <path d="m194.7,187.31H44.57v-118.52c0-17.55,14.14-31.78,31.69-32,39.56-.48,79.03,1.22,118.51.43,0,43,0,86-.06,128.66" fill="none" stroke="#1c4024" stroke-miterlimit="10" stroke-width="2"/>
+  <g>
+    <g>
+      <ellipse cx="74.43" cy="96.8" rx="5.51" ry="11.35" transform="translate(-45.28 120.9) rotate(-63.83)" fill="none" stroke="#1c4024" stroke-miterlimit="10" stroke-width="2"/>
+      <ellipse cx="92.14" cy="73.33" rx="4.86" ry="7.23" transform="translate(-21.73 43.31) rotate(-23.74)" fill="none" stroke="#1c4024" stroke-miterlimit="10" stroke-width="2"/>
+      <ellipse cx="114.07" cy="62.22" rx="1.38" ry="4.53" fill="none" stroke="#1c4024" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <path d="m116.77,165.78c-24.44-16.31-31.17-52.8-11.02-75.17,10.98-12.19,29.43-18.16,45.45-14.36,13.75,3.26,27.23,14.73,23.62,30.24s-22.22,20.26-34.11,11.28" fill="none" stroke="#1c4024" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+  <path d="m118.72,166.39c25.69-.16,51.38-.16,77.06-.06" fill="none" stroke="#1c4024" stroke-miterlimit="10" stroke-width="2"/>
+  <path d="m116.65,165.64c.29.16.64.33,1.05.47.52.17.99.25,1.38.28" fill="none" stroke="#1c4024" stroke-miterlimit="10" stroke-width="2"/>
+</svg>
